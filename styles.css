@@ -385,7 +385,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0) 100%
     ),
-    url("/Images/pic2.png");
+    url("pic2.png");
   background-size: cover;
   position: relative;
   color: #fff;
@@ -397,7 +397,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0) 100%
     ),
-    url("/Images/Taj\ Mahal.png");
+    url("Taj Mahal.png");
 }
 
 .services__card:nth-child(3) {
@@ -406,7 +406,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0) 100%
     ),
-    url("/images/Petra.png");
+    url("Petra.png");
 }
 
 .services__card:nth-child(4) {
@@ -415,7 +415,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0) 100%
     ),
-    url("/images/Machu\ Pichu.png");
+    url("Machu Pichu.png");
 }
 
 .services__card:nth-child(5) {
@@ -424,7 +424,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0) 100%
     ),
-    url("/images/Chichen\ Itza.png");
+    url("Chichen Itza.png");
 }
 
 .services__card:nth-child(6) {
@@ -433,7 +433,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0) 100%
     ),
-    url("/images/pyramid\ giza.png");
+    url("pyramid giza.png");
 }
 
 .services__card:nth-child(6) {
@@ -442,7 +442,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0) 100%
     ),
-    url("/images/pyramid\ giza.png");
+    url("pyramid giza.png");
 }
 
 .services__card:nth-child(7) {
@@ -451,7 +451,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0) 100%
     ),
-    url("/images/colloseum.png");
+    url("colloseum.png");
 }
 
 .services h2 {
