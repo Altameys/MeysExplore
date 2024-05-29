@@ -397,7 +397,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0) 100%
     ),
-    url("/images/Taj\ Mahal.png");
+    url("Taj Mahal.png");
 }
 
 .services__card:nth-child(3) {
